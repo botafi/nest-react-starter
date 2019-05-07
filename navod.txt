@@ -1,0 +1,5 @@
+1) nainstalovat na PC Node 1.12.1 s build tools (node-gyp) a MySQL
+2) zmenit udaje na db v backend/.env
+3) nainstalovat balicky v slozkach frontend a backend pres "npm install"
+4) spustit development instance frontendu a backendu pres "npm start"
+
